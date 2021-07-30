@@ -1,0 +1,2 @@
+# group-project
+A repository containing all the websites created by bcs-developers! All projects will include credit to the respective developers, all finished web applications can be used in all developers resumes whom have contributed to the creation actively. Any developer that is inactive or fails to commit changes that show efficient impact to all projects will be removed from the group as well as restricted from any further access to this repository.
